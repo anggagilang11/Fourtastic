@@ -71,11 +71,11 @@ git push origin nama_cabang_baru
 
 
 ## Project Workflow
-**1. Exploratory Data Analysis (EDA):[here](https://github.com/anggagilang11/Fourtastic/blob/main/EDA_FOURTASTIC.ipynb)**
+**1. Exploratory Data Analysis (EDA): [here](https://github.com/anggagilang11/Fourtastic/blob/main/EDA_FOURTASTIC.ipynb)**
 - Melakukan analisis distribusi kata dan kategori.
 - Visualisasi distribusi data untuk memahami proporsi kategori.
 
-**2. Prepocessing:**
+**2. Prepocessing: [here](https://github.com/anggagilang11/Fourtastic/blob/main/FOURTASTIC_Stage2.ipynb)**
 - Menghapus stopwords.
 - Menganalisis sentiment 
 - Encoding label pada kolom Type.
