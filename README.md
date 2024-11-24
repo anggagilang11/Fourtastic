@@ -1,18 +1,16 @@
 # Job Description Classification
-
 ##  Project Overview
 Ford, sebuah perusahaan teknologi berbasis CRM, menghadapi kesulitan dalam proses rekrutmen karena deskripsi pekerjaan yang terlalu panjang. Proyek ini bertujuan untuk membuat model machine learning yang dapat mengklasifikasikan kalimat dalam deskripsi pekerjaan ke dalam beberapa kategori, seperti Requirements, Education, Skill, Softskill, Responsibility, atau Experience. Dengan model ini, Ford dapat menyederhanakan deskripsi pekerjaan dan memberikan rekomendasi pekerjaan yang sesuai dengan keterampilan dan pengalaman kandidat.
 
+## Daftar Isi
+1. [Requirements](https://github.com/anggagilang11/Fourtastic/blob/main/requirements.txt)
+2. [Instalasi](https://github.com/anggagilang11/Fourtastic?tab=readme-ov-file#instalasi)
+3. [Cara Penggunaan](https://github.com/anggagilang11/Fourtastic?tab=readme-ov-file#cara-penggunaan)
+4. [Dataset](https://github.com/anggagilang11/Fourtastic/tree/main/Data)
+5. [Project Workflow](https://github.com/anggagilang11/Fourtastic?tab=readme-ov-file#project-workflow)
+
 ## Goal
 Mengoptimalkan model machine learning yang dapat mengklasifikasikan kategori kalimat ke dalam salah satu kelas yang diberikan dalam training dataset yang disediakan.
-
-
-## Daftar Isi
-1. [Instalasi](##Instalasi)
-2. [Cara Penggunaan](##Cara-Penggunaan)
-3. [Dataset](https://github.com/anggagilang11/Fourtastic/tree/main/Data)
-4. [Project Workflow](##Project-Workflow)
-
 
 ## Instalasi
 Untuk menginstal dan menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
@@ -32,7 +30,7 @@ cd Fourtastic
 pip install -r requirements.txt
 ```
 
-## Cara-Penggunaan
+## Cara Penggunaan
 **1. Clone Repositori Fork ke Komputer Lokal**
 ```
 git clone https://github.com/USERNAME/Fourtastic.git
@@ -72,8 +70,8 @@ git push origin nama_cabang_baru
   - Experience
 
 
-## Project-Workflow
-**1. Exploratory Data Analysis (EDA):**
+## Project Workflow
+**1. Exploratory Data Analysis (EDA):[here](https://github.com/anggagilang11/Fourtastic/blob/main/EDA_FOURTASTIC.ipynb)**
 - Melakukan analisis distribusi kata dan kategori.
 - Visualisasi distribusi data untuk memahami proporsi kategori.
 
